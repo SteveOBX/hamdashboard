@@ -1,4 +1,4 @@
-const topBarCenterText = `VA3HDL - FN04ga`;
+const topBarCenterText = `W2SHR -FM26da `;
 
 // Grid layout
 var layout_cols = 4;
